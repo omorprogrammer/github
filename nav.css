@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 nav > ul{
     display: flex;
 }
@@ -18,4 +19,26 @@ nav li:hover{
     border-radius: 5px;
     transform: rotate(10deg);
     cursor:context-menu;
+=======
+nav > ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-right: 10px;
+    padding: 5px;
+}
+
+nav li a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+nav li:hover{
+    background-color: rgb(21, 195, 189);
+    box-shadow: 2px 2px 5px rgb(199, 57, 6);
+    border-radius: 5px;
+    transform: rotate(10deg);
+    cursor:context-menu;
+>>>>>>> 32d81a6e223c06a214c10e0f369402c67f7d03d8
 }
