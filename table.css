@@ -1,16 +1,15 @@
-<<<<<<< HEAD
 table{
     border-collapse: collapse;
 }
 th, td{
 border: 1px solid black;
 border-radius: 10px;
-=======
+}
 table{
     border-collapse: collapse;
 }
 th, td{
 border: 1px solid black;
 border-radius: 10px;
->>>>>>> 32d81a6e223c06a214c10e0f369402c67f7d03d8
+
 }
